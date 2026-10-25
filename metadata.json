@@ -1,0 +1,6 @@
+{
+  "name": "AMEEN INVENTORY AI",
+  "description": "تطبيق جرد ذكي ومتطور جداً — AMEEN SMART INVENTORY مع مساعد الذكاء الاصطناعي أمين AI وإدارة المبيعات والمشتريات والتقارير",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
